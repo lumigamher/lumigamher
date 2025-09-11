@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luis Miguel Gamboa</h1>
-<h3 align="center">Hello everyone! I'm Luis Miguel Gamboa, a Junior Full Stack Developer and a graduate of Campuslands. I've always dreamed of becoming a developer, and at 26 years old, I'm still as enthusiastic and eager to learn as ever. During my previous studies, I felt a great excitement for everything related to programming. My goal is to stand out as one of the best in backend development. I'm focused on deepening my knowledge in languages like Python, Java, and Spring Boot, as well as in databases, APIs, and server architectures. Constant practice and working on real projects are my path to perfecting my skills. I'm ready to achieve my goals and continue learning in this fascinating world of programming!</h3>
+<h3 align="center">CCO Clonai</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lumigamher&label=Profile%20views&color=0e75b6&style=flat" alt="lumigamher" /> </p>
 
