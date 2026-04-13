@@ -1,16 +1,53 @@
-<h1 align="center">Hi 👋, I'm Luis Miguel Gamboa</h1>
-<h3 align="center">CCO Clonai</h3>
+# Hola, soy Luis Miguel Gamboa 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lumigamher&label=Profile%20views&color=0e75b6&style=flat" alt="lumigamher" /> </p>
+**CCO & Cofundador de [ClonAI](https://clonai.co)** — Llevamos Inteligencia Artificial a restaurantes a través de WhatsApp.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lumigamher" alt="lumigamher" /></a> </p>
+Sin apps adicionales. Sin complicaciones. Solo resultados.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### 🚀 Sobre ClonAI
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lumigamher&show_icons=true&locale=en" alt="lumigamher" /></p>
+Estamos construyendo la infraestructura de IA para la industria restaurantera en Latinoamérica. Nuestro producto permite a los restaurantes automatizar pedidos, atención al cliente y operaciones — todo desde WhatsApp, el canal que sus clientes ya usan.
 
+| | |
+|---|---|
+| **Problema** | Los restaurantes pierden ventas y tiempo con procesos manuales de atención y pedidos |
+| **Solución** | Agente de IA en WhatsApp que atiende, toma pedidos y gestiona operaciones 24/7 |
+| **Mercado** | +90,000 restaurantes en Colombia. LATAM es el siguiente paso |
+| **Modelo** | SaaS B2B — suscripción mensual |
+
+🔗 **[clonai.co](https://clonai.co)**
+
+---
+
+### 🧭 Mi camino
+
+No tomé el camino típico hacia la tecnología:
+
+- 🔧 Empecé como **técnico electricista**
+- 📡 Pasé por **telecomunicaciones y ventas corporativas** en Tigo y Telefónica
+- 💻 Me formé como **Fullstack Developer** en Campuslands (2,100 horas: Python, Java, Spring Boot)
+- 📦 Lideré **producto en startups** como Athlex y Campuslands
+- 🤖 Hoy dirijo la **estrategia comercial de una empresa de IA**
+
+Esa combinación de background técnico + experiencia comercial es lo que me permite construir puentes entre lo que la tecnología puede hacer y lo que los negocios realmente necesitan.
+
+---
+
+### 💡 En lo que creo
+
+- La IA no reemplaza el negocio. **Lo potencia.**
+- Los mejores productos de IA son los que el usuario **ni siente que está usando.**
+- El mercado latinoamericano está hambriento de soluciones tech **que hablen su idioma.**
+- Las relaciones genuinas > las transacciones puntuales.
+
+---
+
+### 📬 Conectemos
+
+Si estás en el mundo de **IA aplicada, startups, venture capital o el ecosistema tech latinoamericano** — hablemos.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lmiguelgamboa)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lumigam@hotmail.com)
+[![ClonAI](https://img.shields.io/badge/ClonAI-00C853?style=for-the-badge&logo=whatsapp&logoColor=white)](https://clonai.co)
