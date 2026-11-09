@@ -1,6 +1,6 @@
 # Hola, soy Luis Miguel Gamboa 👋
 
-**CCO & Cofundador de [ClonAI](https://clonai.co)** — Llevamos Inteligencia Artificial a restaurantes a través de WhatsApp.
+**Cofundador de [ClonAI](https://clonai.co)** — Llevamos Inteligencia Artificial a restaurantes a través de WhatsApp.
 
 Sin apps adicionales. Sin complicaciones. Solo resultados.
 
